@@ -1,0 +1,7 @@
++----------------------------------------+
+Script Name: Scraping null
+Author: K00217982
+Date: 15 January 2020 04:27:44
++----------------------------------------+
+Log:	15 January 2020 04:28:01	Reading[WEBSITE_URL]
+Error:	15 January 2020 04:28:01	Property WEBSITE_URL update failed with the value: http://localhost:8081/fypweb/

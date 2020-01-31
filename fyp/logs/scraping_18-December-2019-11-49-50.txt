@@ -1,0 +1,102 @@
++----------------------------------------+
+Script Name: Scraping http://localhost/fyp
+Author: K00217982
+Date: 18 December 2019 11:49:50
++----------------------------------------+
+Info:	18 December 2019 11:49:50	Connected to localhost successfully!
+Info:	18 December 2019 11:49:50	[{firstname=Mull, password=1234, user_id=1, lastname=Test, username=mull}]
+Log:	18 December 2019 11:49:50	Creating class: Home.java
+Log:	18 December 2019 11:49:50	Inserting imports in: Home
+Log:	18 December 2019 11:49:50	Creating class constructure: Home.java
+Info:	18 December 2019 11:49:50	
++---------------------------------------------------------+
+Document Scraping:Test Web Page Home
+URL:http://localhost/fyp/
++---------------------------------------------------------+
+Log:	18 December 2019 11:49:50	Scraped automationid: btn_home_logo
+Error:	18 December 2019 11:49:50	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:49:50	Building WebElement object method string: btnNavbar(WebDriver driver){}
+Log:	18 December 2019 11:49:52	Scraped automationid: btn_home
+Error:	18 December 2019 11:49:52	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:49:52	Building WebElement object method string: btnHome(WebDriver driver){}
+Log:	18 December 2019 11:49:53	Scraped automationid: btn_contact_us
+Error:	18 December 2019 11:49:53	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:49:53	Building WebElement object method string: btnContact(WebDriver driver){}
+Log:	18 December 2019 11:49:55	Scraped automationid: btn_about_us
+Error:	18 December 2019 11:49:55	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:49:55	Building WebElement object method string: btnAbout(WebDriver driver){}
+Error:	18 December 2019 11:49:56	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:49:56	Building WebElement object method string: formInputform_search_input_search(WebDriver driver){}
+Error:	18 December 2019 11:49:58	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:49:58	Building WebElement object method string: formInputform_article_input_fname(WebDriver driver){}
+Error:	18 December 2019 11:49:59	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:49:59	Building WebElement object method string: formInputform_article_input_lname(WebDriver driver){}
+Error:	18 December 2019 11:50:01	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:01	Building WebElement object method string: formInputform_article_btn_submit(WebDriver driver){}
+Log:	18 December 2019 11:50:02	Form Input WebElement objects created!
+Log:	18 December 2019 11:50:02	Adding http://localhost/fyp/contact.php for scraping
+Log:	18 December 2019 11:50:04	Adding http://localhost/fyp/about.php for scraping
+Log:	18 December 2019 11:50:05	Merging new HashMap with old HashMap
+Log:	18 December 2019 11:50:05	Building WebElement object methods completed
+Log:	18 December 2019 11:50:05	Home.java created successfully!
+
+
+Info:	18 December 2019 11:50:05	
++---------------------------------------------------------+
+Document Scraping:Test Web Page Contact
+URL:http://localhost/fyp/contact.php
++---------------------------------------------------------+
+Log:	18 December 2019 11:50:05	Scraped automationid: main_menu_home
+Error:	18 December 2019 11:50:05	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:05	Building WebElement object method string: btnNavbar(WebDriver driver){}
+Log:	18 December 2019 11:50:07	Scraped automationid: main_ul_home
+Error:	18 December 2019 11:50:07	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:07	Building WebElement object method string: btnHome(WebDriver driver){}
+Log:	18 December 2019 11:50:08	Scraped automationid: main_ul_contact
+Error:	18 December 2019 11:50:08	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:08	Building WebElement object method string: btnContact(WebDriver driver){}
+Log:	18 December 2019 11:50:10	Scraped automationid: main_ul_about
+Error:	18 December 2019 11:50:10	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:10	Building WebElement object method string: btnAbout(WebDriver driver){}
+Error:	18 December 2019 11:50:11	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:11	Building WebElement object method string: formInputinputSearch(WebDriver driver){}
+Error:	18 December 2019 11:50:13	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:13	Building WebElement object method string: formInputinput_email(WebDriver driver){}
+Error:	18 December 2019 11:50:14	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:14	Building WebElement object method string: formInputinput_password(WebDriver driver){}
+Error:	18 December 2019 11:50:16	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:16	Building WebElement object method string: formInputinput_checkbox(WebDriver driver){}
+Log:	18 December 2019 11:50:17	Form Input WebElement objects created!
+Log:	18 December 2019 11:50:17	Adding http://localhost/fyp/contact.php for scraping
+Log:	18 December 2019 11:50:19	Adding http://localhost/fyp/about.php for scraping
+Log:	18 December 2019 11:50:20	Merging new HashMap with old HashMap
+Log:	18 December 2019 11:50:20	Building WebElement object methods completed
+Log:	18 December 2019 11:50:20	Contact_Us.java created successfully!
+
+
+Info:	18 December 2019 11:50:20	
++---------------------------------------------------------+
+Document Scraping:Test Web Page About
+URL:http://localhost/fyp/about.php
++---------------------------------------------------------+
+Log:	18 December 2019 11:50:20	Scraped automationid: main_menu_home
+Error:	18 December 2019 11:50:20	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:20	Building WebElement object method string: btnNavbar(WebDriver driver){}
+Log:	18 December 2019 11:50:22	Scraped automationid: main_ul_home
+Error:	18 December 2019 11:50:22	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:22	Building WebElement object method string: btnHome(WebDriver driver){}
+Log:	18 December 2019 11:50:23	Scraped automationid: main_ul_contact
+Error:	18 December 2019 11:50:23	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:23	Building WebElement object method string: btnContact(WebDriver driver){}
+Log:	18 December 2019 11:50:25	Scraped automationid: main_ul_about
+Error:	18 December 2019 11:50:25	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:25	Building WebElement object method string: btnAbout(WebDriver driver){}
+Error:	18 December 2019 11:50:26	[automationid] or [id] or [class] not found for xpath
+Log:	18 December 2019 11:50:26	Building WebElement object method string: formInputinputSearch(WebDriver driver){}
+Log:	18 December 2019 11:50:28	Form Input WebElement objects created!
+Log:	18 December 2019 11:50:28	Adding http://localhost/fyp/contact.php for scraping
+Log:	18 December 2019 11:50:29	Adding http://localhost/fyp/about.php for scraping
+Log:	18 December 2019 11:50:31	Merging new HashMap with old HashMap
+Log:	18 December 2019 11:50:31	Building WebElement object methods completed
+Log:	18 December 2019 11:50:31	About_Us.java created successfully!
+

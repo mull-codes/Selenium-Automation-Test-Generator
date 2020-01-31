@@ -1,0 +1,130 @@
++----------------------------------------+
+Script Name: Scraping null
+Author: K00217982
+Date: 23 January 2020 02:37:51
++----------------------------------------+
+Log:	23 January 2020 02:39:15	Reading[FILE_UTIL_URL]
+Log:	23 January 2020 02:39:15	Reading[FILE_TEST_URL]
+Log:	23 January 2020 02:39:15	Creating class: Home.java
+Log:	23 January 2020 02:39:15	Inserting imports in: Home
+Log:	23 January 2020 02:39:15	Creating class constructure: Home.java
+Info:	23 January 2020 02:39:15	
++---------------------------------------------------------+
+Document Scraping:Test Web Page Home
+URL:http://localhost:8081/fypweb/
++---------------------------------------------------------+
+Log:	23 January 2020 02:39:15	Scraped automationid: btn_home_logo
+Error:	23 January 2020 02:39:15	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:15	Building WebElement object method string: btnNavbar(WebDriver driver){}
+Log:	23 January 2020 02:39:15	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:17	Scraped automationid: btn_home
+Error:	23 January 2020 02:39:17	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:17	Building WebElement object method string: btnHome(WebDriver driver){}
+Log:	23 January 2020 02:39:17	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:18	Scraped automationid: btn_contact_us
+Error:	23 January 2020 02:39:18	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:18	Building WebElement object method string: btnContact(WebDriver driver){}
+Log:	23 January 2020 02:39:18	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:20	Scraped automationid: btn_about_us
+Error:	23 January 2020 02:39:20	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:20	Building WebElement object method string: btnAbout(WebDriver driver){}
+Log:	23 January 2020 02:39:20	Platform sleeping for 1 seconds
+Error:	23 January 2020 02:39:21	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:21	Building WebElement object method string: formInputform_search_input_search(WebDriver driver){}
+Log:	23 January 2020 02:39:21	Platform sleeping for 1 seconds
+Error:	23 January 2020 02:39:23	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:23	Building WebElement object method string: formInputform_article_input_fname(WebDriver driver){}
+Log:	23 January 2020 02:39:23	Platform sleeping for 1 seconds
+Error:	23 January 2020 02:39:24	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:24	Building WebElement object method string: formInputform_article_input_lname(WebDriver driver){}
+Log:	23 January 2020 02:39:24	Platform sleeping for 1 seconds
+Error:	23 January 2020 02:39:26	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:26	Building WebElement object method string: formInputform_article_btn_submit(WebDriver driver){}
+Log:	23 January 2020 02:39:26	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:27	Form Input WebElement objects created!
+Log:	23 January 2020 02:39:27	Adding http://localhost:8081/fypweb//contact.php for scraping
+Log:	23 January 2020 02:39:27	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:29	Adding http://localhost:8081/fypweb//about.php for scraping
+Log:	23 January 2020 02:39:29	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:31	Merging new HashMap with old HashMap
+Log:	23 January 2020 02:39:31	Building WebElement object methods completed
+Log:	23 January 2020 02:39:31	Home.java created successfully!
+
+
+Info:	23 January 2020 02:39:31	
++---------------------------------------------------------+
+Document Scraping:Test Web Page Contact
+URL:http://localhost:8081/fypweb//contact.php
++---------------------------------------------------------+
+Log:	23 January 2020 02:39:31	Scraped automationid: main_menu_home
+Error:	23 January 2020 02:39:31	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:31	Building WebElement object method string: btnNavbar(WebDriver driver){}
+Log:	23 January 2020 02:39:31	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:32	Scraped automationid: main_ul_home
+Error:	23 January 2020 02:39:32	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:32	Building WebElement object method string: btnHome(WebDriver driver){}
+Log:	23 January 2020 02:39:32	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:34	Scraped automationid: main_ul_contact
+Error:	23 January 2020 02:39:34	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:34	Building WebElement object method string: btnContact(WebDriver driver){}
+Log:	23 January 2020 02:39:34	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:35	Scraped automationid: main_ul_about
+Error:	23 January 2020 02:39:35	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:35	Building WebElement object method string: btnAbout(WebDriver driver){}
+Log:	23 January 2020 02:39:35	Platform sleeping for 1 seconds
+Error:	23 January 2020 02:39:37	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:37	Building WebElement object method string: formInputinputSearch(WebDriver driver){}
+Log:	23 January 2020 02:39:37	Platform sleeping for 1 seconds
+Error:	23 January 2020 02:39:38	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:38	Building WebElement object method string: formInputinput_email(WebDriver driver){}
+Log:	23 January 2020 02:39:38	Platform sleeping for 1 seconds
+Error:	23 January 2020 02:39:40	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:40	Building WebElement object method string: formInputinput_password(WebDriver driver){}
+Log:	23 January 2020 02:39:40	Platform sleeping for 1 seconds
+Error:	23 January 2020 02:39:41	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:41	Building WebElement object method string: formInputinput_checkbox(WebDriver driver){}
+Log:	23 January 2020 02:39:41	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:43	Form Input WebElement objects created!
+Log:	23 January 2020 02:39:43	Adding http://localhost:8081/fypweb//contact.php for scraping
+Log:	23 January 2020 02:39:43	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:44	Adding http://localhost:8081/fypweb//about.php for scraping
+Log:	23 January 2020 02:39:44	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:46	Merging new HashMap with old HashMap
+Log:	23 January 2020 02:39:46	Building WebElement object methods completed
+Log:	23 January 2020 02:39:46	Contact_Us.java created successfully!
+
+
+Info:	23 January 2020 02:39:46	
++---------------------------------------------------------+
+Document Scraping:Test Web Page About
+URL:http://localhost:8081/fypweb//about.php
++---------------------------------------------------------+
+Log:	23 January 2020 02:39:46	Scraped automationid: main_menu_home
+Error:	23 January 2020 02:39:46	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:46	Building WebElement object method string: btnNavbar(WebDriver driver){}
+Log:	23 January 2020 02:39:46	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:47	Scraped automationid: main_ul_home
+Error:	23 January 2020 02:39:47	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:47	Building WebElement object method string: btnHome(WebDriver driver){}
+Log:	23 January 2020 02:39:47	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:49	Scraped automationid: main_ul_contact
+Error:	23 January 2020 02:39:49	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:49	Building WebElement object method string: btnContact(WebDriver driver){}
+Log:	23 January 2020 02:39:49	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:51	Scraped automationid: main_ul_about
+Error:	23 January 2020 02:39:51	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:51	Building WebElement object method string: btnAbout(WebDriver driver){}
+Log:	23 January 2020 02:39:51	Platform sleeping for 1 seconds
+Error:	23 January 2020 02:39:52	[automationid] or [id] or [class] not found for xpath
+Log:	23 January 2020 02:39:52	Building WebElement object method string: formInputinputSearch(WebDriver driver){}
+Log:	23 January 2020 02:39:52	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:54	Form Input WebElement objects created!
+Log:	23 January 2020 02:39:54	Adding http://localhost:8081/fypweb//contact.php for scraping
+Log:	23 January 2020 02:39:54	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:55	Adding http://localhost:8081/fypweb//about.php for scraping
+Log:	23 January 2020 02:39:55	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:39:57	Merging new HashMap with old HashMap
+Log:	23 January 2020 02:39:57	Building WebElement object methods completed
+Log:	23 January 2020 02:39:57	About_Us.java created successfully!
+
+

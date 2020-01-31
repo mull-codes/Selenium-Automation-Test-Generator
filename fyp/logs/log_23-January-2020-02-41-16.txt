@@ -1,0 +1,18 @@
++----------------------------------------+
+Script Name: Home Script
+Author: K00217982
+Date: 23 January 2020 02:41:16
++----------------------------------------+
+Log:	23 January 2020 02:41:19	Starting chrome browser
+Log:	23 January 2020 02:41:19	Maximizing browser
+Log:	23 January 2020 02:41:19	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:41:20	Reading[WEBSITE_URL]
+Log:	23 January 2020 02:41:21	Platform sleeping for 6 seconds
+Log:	23 January 2020 02:41:27	Platform sleeping for 3 seconds
+Log:	23 January 2020 02:41:30	[Expected]: About Us [Actual]: About Usss [RETURN FALSE]
+Log:	23 January 2020 02:41:30	Platform sleeping for 6 seconds
+Log:	23 January 2020 02:41:36	Platform sleeping for 3 seconds
+Log:	23 January 2020 02:41:39	[Expected]: Lorem Ipsum Dolar Soleh 1 [Actual]: Lorem Ipsum Dolar Soleh 1 [RETURN TRUE]
+Log:	23 January 2020 02:41:40	Platform sleeping for 1 seconds
+Log:	23 January 2020 02:41:41	Platform sleeping for 6 seconds
+Log:	23 January 2020 02:41:47	Shutting down driver

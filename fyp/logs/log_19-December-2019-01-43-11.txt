@@ -1,0 +1,12 @@
++----------------------------------------+
+Script Name: Home Script
+Author: K00217982
+Date: 19 December 2019 01:43:11
++----------------------------------------+
+Log:	19 December 2019 01:43:18	Starting chrome browser
+Log:	19 December 2019 01:43:22	Maximizing browser
+Log:	19 December 2019 01:43:22	Platform sleeping for 1 seconds
+Log:	19 December 2019 01:43:24	Platform sleeping for 3 seconds
+Log:	19 December 2019 01:43:27	Platform sleeping for 1 seconds
+Log:	19 December 2019 01:43:29	Platform sleeping for 6 seconds
+Log:	19 December 2019 01:43:35	Shutting down driver
