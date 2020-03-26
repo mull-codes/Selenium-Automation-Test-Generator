@@ -4,21 +4,25 @@ import java.util.List;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.Rectangle;
 import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 
-import com.k00217982.fyp.interfaces.CustomElement;
+import com.k00217982.fyp.helper.Browser;
+import com.k00217982.fyp.interfaces.CustomWebElement;
 
-public class Button implements CustomElement  {
+public class Button implements CustomWebElement  {
 	
-	private final WebElement element;
+	private WebElement element;
 	
-	public Button(final WebElement element) {
-        this.element = element;
-    }
+	public void ClickJS() {
+		//JavaScript Click
+		JavascriptExecutor executor = (JavascriptExecutor)Browser.getWebDriver();
+		executor.executeScript("arguments[0].click();", element);
+	}
 
 	public void clear() {
 		// TODO Auto-generated method stub
@@ -105,9 +109,6 @@ public class Button implements CustomElement  {
 		return null;
 	}
 
-	public void ClickJS() {
-		// TODO Auto-generated method stub
-		
-	}
+	
 
 }

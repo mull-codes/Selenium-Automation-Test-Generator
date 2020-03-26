@@ -1,7 +1,0 @@
-+----------------------------------------+
-Script Name: Scraping null
-Author: K00217982
-Date: 16 January 2020 11:40:09
-+----------------------------------------+
-Log:	16 January 2020 11:40:20	Reading[WEBSITE_URL]
-Error:	16 January 2020 11:40:20	Property WEBSITE_URL update failed with the value: https://example.com

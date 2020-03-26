@@ -1,0 +1,40 @@
++----------------------------------------+
+Script Name: HomeTest
+Author: ATGWA
+DateTime Started: 24 March 2020 12:50:44
++----------------------------------------+
+Log:[exec]	24 March 2020 12:50:44	Reading WEBSITE_URL : http://localhost/fyp/
+Log:[exec]	24 March 2020 12:50:44	Reading AUTOMATION_ID : automationid
+Log:[exec]	24 March 2020 12:50:44	Reading FILE_UTIL_URL : src//main//java//com//k00217982//fyp//test//utils
+Log:[exec]	24 March 2020 12:50:44	Reading FILE_TEST_URL : src//main//java//com//k00217982//fyp//test//scripts
+Log:[exec]	24 March 2020 12:50:44	Reading BROWSER : edge
+Log:[exec]	24 March 2020 12:50:44	Reading USE_DEFAULT_DRIVER_LOCATION : true
+Log:[exec]	24 March 2020 12:50:44	Reading DEFAULT_DRIVER_LOCATION : \webdriver\
+Log:[exec]	24 March 2020 12:50:44	Reading DRIVER_CHROME_EXE_NAME : chromedriver.exe
+Log:[exec]	24 March 2020 12:50:44	Reading DRIVER_CHROME_NAME : webdriver.chrome.driver
+Log:[exec]	24 March 2020 12:50:44	Reading DRIVER_EDGE_EXE_NAME : msedgedriver.exe
+Log:[exec]	24 March 2020 12:50:44	Reading DRIVER_EDGE_NAME : webdriver.edge.driver
+Log:[exec]	24 March 2020 12:50:44	Reading DRIVER_FIREFOX_EXE_NAME : geckodriver.exe
+Log:[exec]	24 March 2020 12:50:44	Reading DRIVER_FIREFOX_NAME : webdriver.gecko.driver
+Log:[exec]	24 March 2020 12:50:44	Reading DRIVER_IE_EXE_NAME : iedriver.exe
+Log:[exec]	24 March 2020 12:50:44	Reading DRIVER_IE_NAME : webdriver.explorer.driver
+Log:[exec]	24 March 2020 12:50:44	Reading DATABASE : MYSQL
+Log:[exec]	24 March 2020 12:50:44	Reading mysql_SERVER_NAME : null
+Log:[exec]	24 March 2020 12:50:44	Reading mysql_DB_NAME : null
+Log:[exec]	24 March 2020 12:50:44	Reading mysql_USER : null
+Log:[exec]	24 March 2020 12:50:44	Reading mysql_PASSWORD : null
+Log:[info]	24 March 2020 12:50:51	Starting edge browser
+Log:[info]	24 March 2020 12:50:56	Maximizing browser
+Log:[exec]	24 March 2020 12:50:56	Platform sleeping for 15 seconds
+Log:[exec]	24 March 2020 12:51:11	Reading[WEBSITE_URL]
+Log:[info]	24 March 2020 12:51:11	Navigating to link_Btn_contact_usAutomationid
+Log:[exec]	24 March 2020 12:51:11	Platform sleeping for 15 seconds
+Log:[exec]	24 March 2020 12:51:28	Platform sleeping for 1 seconds
+Log:[info]	24 March 2020 12:51:30	Navigating to link_Btn_search_tableAutomationid
+Log:[exec]	24 March 2020 12:51:30	Platform sleeping for 15 seconds
+Log:[exec]	24 March 2020 12:51:45	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:51:46	Shutting down driver
++----------------------------------------+
+End of HomeTest script execution
+DateTime Finished: 24 March 2020 12:51:46
++----------------------------------------+

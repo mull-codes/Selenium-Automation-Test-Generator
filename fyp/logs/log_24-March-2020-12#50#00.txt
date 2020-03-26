@@ -1,0 +1,48 @@
++----------------------------------------+
+Script Name: HomeTest
+Author: ATGWA
+DateTime Started: 24 March 2020 12:50:00
++----------------------------------------+
+Log:[exec]	24 March 2020 12:50:00	Reading WEBSITE_URL : http://localhost/fyp/
+Log:[exec]	24 March 2020 12:50:00	Reading AUTOMATION_ID : automationid
+Log:[exec]	24 March 2020 12:50:00	Reading FILE_UTIL_URL : src//main//java//com//k00217982//fyp//test//utils
+Log:[exec]	24 March 2020 12:50:01	Reading FILE_TEST_URL : src//main//java//com//k00217982//fyp//test//scripts
+Log:[exec]	24 March 2020 12:50:01	Reading BROWSER : edge
+Log:[exec]	24 March 2020 12:50:01	Reading USE_DEFAULT_DRIVER_LOCATION : true
+Log:[exec]	24 March 2020 12:50:01	Reading DEFAULT_DRIVER_LOCATION : \webdriver\
+Log:[exec]	24 March 2020 12:50:01	Reading DRIVER_CHROME_EXE_NAME : chromedriver.exe
+Log:[exec]	24 March 2020 12:50:01	Reading DRIVER_CHROME_NAME : webdriver.chrome.driver
+Log:[exec]	24 March 2020 12:50:01	Reading DRIVER_EDGE_EXE_NAME : msedgedriver.exe
+Log:[exec]	24 March 2020 12:50:01	Reading DRIVER_EDGE_NAME : webdriver.edge.driver
+Log:[exec]	24 March 2020 12:50:01	Reading DRIVER_FIREFOX_EXE_NAME : geckodriver.exe
+Log:[exec]	24 March 2020 12:50:01	Reading DRIVER_FIREFOX_NAME : webdriver.gecko.driver
+Log:[exec]	24 March 2020 12:50:01	Reading DRIVER_IE_EXE_NAME : iedriver.exe
+Log:[exec]	24 March 2020 12:50:01	Reading DRIVER_IE_NAME : webdriver.explorer.driver
+Log:[exec]	24 March 2020 12:50:01	Reading DATABASE : MYSQL
+Log:[exec]	24 March 2020 12:50:01	Reading mysql_SERVER_NAME : null
+Log:[exec]	24 March 2020 12:50:01	Reading mysql_DB_NAME : null
+Log:[exec]	24 March 2020 12:50:01	Reading mysql_USER : null
+Log:[exec]	24 March 2020 12:50:01	Reading mysql_PASSWORD : null
+Log:[info]	24 March 2020 12:50:09	Starting edge browser
+Log:[info]	24 March 2020 12:50:14	Maximizing browser
+Log:[exec]	24 March 2020 12:50:14	Platform sleeping for 15 seconds
+Log:[exec]	24 March 2020 12:50:29	Reading[WEBSITE_URL]
+Log:[Error]	24 March 2020 12:50:29	org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=80.0.361.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CUCFPDL', ip: '192.168.138.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 80.0.361.69, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:58582}, msedge: {msedgedriverVersion: 80.0.361.69 (11b2f9c770113c..., userDataDir: C:\Users\Mull\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ee99c127e92e5e3514457dd7e92601ce
+Log:[Error]	24 March 2020 12:50:29	org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=80.0.361.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-CUCFPDL', ip: '192.168.138.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 80.0.361.69, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:58582}, msedge: {msedgedriverVersion: 80.0.361.69 (11b2f9c770113c..., userDataDir: C:\Users\Mull\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ee99c127e92e5e3514457dd7e92601ce
+Log:[exec]	24 March 2020 12:50:29	Shutting down driver
++----------------------------------------+
+End of HomeTest script execution
+DateTime Finished: 24 March 2020 12:50:29
++----------------------------------------+

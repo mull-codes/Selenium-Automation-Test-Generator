@@ -1,5 +1,7 @@
 <?php
 	$BASE_URL = "http://localhost/fyp";
+
+	$active_page = "about";
 ?>
 
 <!DOCTYPE html>
@@ -22,33 +24,7 @@
 </head>
 <body>
 	<div class="container bg-white mb-4 mt-4 p-0">
-		<header automationid="main_menu">
-			<nav automationid="main_menu_nav" class="navbar navbar-expand-lg navbar-dark bg-dark">
-			  <a automationid="main_menu_home" class="navbar-brand" href="<?php echo $BASE_URL; ?>">Navbar</a>
-			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-			    <span class="navbar-toggler-icon"></span>
-			  </button>
-
-			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-			    <ul automationid="main_ul" class="navbar-nav mr-auto">
-			      <li class="nav-item ">
-			        <a automationid="main_ul_home" class="nav-link" href="<?php echo $BASE_URL; ?>/index.php">Home</a>
-			      </li>
-			      <li class="nav-item">
-			        <a automationid="main_ul_contact" class="nav-link" href="<?php echo $BASE_URL; ?>/contact.php">Contact Us</a>
-			      </li>
-
-			      <li class="nav-item active">
-			        <a automationid="main_ul_about" class="nav-link" href="<?php echo $BASE_URL; ?>/about.php">About Us</a>
-			      </li>
-			    </ul>
-			    <form automationid="search_form" class="form-inline my-2 my-lg-0">
-			      <input automationid="inputSearch" name="inputSearch" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-			      <button automationid="button_search" name="button_search" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-			    </form>
-			  </div>
-			</nav>
-		</header>
+		<?php include 'main_menu.php'; ?>
 
 		<main class="main" id="main">
 			<div class="p-3">
@@ -62,9 +38,7 @@
 			</div>
 		</main>
 
-		<footer class="copy" id="copy">
-			<p class="text-muted text-center p-3">Copyright &copy; <?php echo date('Y'); ?>. All rights reserved</p>
-		</footer>
+		<?php include 'footer.php'; ?>
 	</div>
 
 	<!-- Optional JavaScript -->

@@ -1,0 +1,1236 @@
++----------------------------------------+
+Script Name: WEBSITE SCRAPING
+Author: K00217982
+DateTime Started: 24 March 2020 12:36:44
++----------------------------------------+
+Log:[exec]	24 March 2020 12:36:47	Reading WEBSITE_URL : http://localhost/fyp/
+Log:[exec]	24 March 2020 12:36:47	Reading AUTOMATION_ID : automationid
+Log:[exec]	24 March 2020 12:36:47	Reading FILE_UTIL_URL : src//main//java//com//k00217982//fyp//test//utils
+Log:[exec]	24 March 2020 12:36:47	Reading FILE_TEST_URL : src//main//java//com//k00217982//fyp//test//scripts
+Log:[exec]	24 March 2020 12:36:47	Reading BROWSER : edge
+Log:[exec]	24 March 2020 12:36:47	Reading USE_DEFAULT_DRIVER_LOCATION : true
+Log:[exec]	24 March 2020 12:36:47	Reading DEFAULT_DRIVER_LOCATION : \webdriver\
+Log:[exec]	24 March 2020 12:36:47	Reading DRIVER_CHROME_EXE_NAME : chromedriver.exe
+Log:[exec]	24 March 2020 12:36:47	Reading DRIVER_CHROME_NAME : webdriver.chrome.driver
+Log:[exec]	24 March 2020 12:36:47	Reading DRIVER_EDGE_EXE_NAME : msedgedriver.exe
+Log:[exec]	24 March 2020 12:36:47	Reading DRIVER_EDGE_NAME : webdriver.edge.driver
+Log:[exec]	24 March 2020 12:36:47	Reading DRIVER_FIREFOX_EXE_NAME : geckodriver.exe
+Log:[exec]	24 March 2020 12:36:47	Reading DRIVER_FIREFOX_NAME : webdriver.gecko.driver
+Log:[exec]	24 March 2020 12:36:47	Reading DRIVER_IE_EXE_NAME : iedriver.exe
+Log:[exec]	24 March 2020 12:36:47	Reading DRIVER_IE_NAME : webdriver.explorer.driver
+Log:[exec]	24 March 2020 12:36:47	Reading DATABASE : MYSQL
+Log:[exec]	24 March 2020 12:36:47	Reading mysql_SERVER_NAME : null
+Log:[exec]	24 March 2020 12:36:47	Reading mysql_DB_NAME : null
+Log:[exec]	24 March 2020 12:36:47	Reading mysql_USER : null
+Log:[exec]	24 March 2020 12:36:47	Reading mysql_PASSWORD : null
+Log:[exec]	24 March 2020 12:36:47	List Link URL: http://localhost/fyp/ == http://localhost/fyp/ : Config Link URL
+Log:[exec]	24 March 2020 12:36:47	Scraping more links from: http://localhost/fyp/contact.php
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/contact.php == http://localhost/fyp/ : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/contact.php == http://localhost/fyp/contact.php : List Link URL => TRUE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/contact.php == http://localhost/fyp/search_table.php : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/search_table.php == http://localhost/fyp/ : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/search_table.php == http://localhost/fyp/contact.php : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/search_table.php == http://localhost/fyp/search_table.php : List Link URL => TRUE
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/about.php == http://localhost/fyp/ : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/about.php == http://localhost/fyp/contact.php : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/about.php == http://localhost/fyp/search_table.php : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	
+------------------------
+Link item added: http://localhost/fyp/about.php
+------------------------
+Log:[exec]	24 March 2020 12:36:47	Scraping more links from: http://localhost/fyp/search_table.php
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:36:47	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/contact.php == http://localhost/fyp/ : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/contact.php == http://localhost/fyp/contact.php : List Link URL => TRUE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/contact.php == http://localhost/fyp/search_table.php : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/search_table.php == http://localhost/fyp/ : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/search_table.php == http://localhost/fyp/contact.php : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/search_table.php == http://localhost/fyp/search_table.php : List Link URL => TRUE
+Log:[exec]	24 March 2020 12:36:47	---------------------------------------
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/about.php == http://localhost/fyp/ : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/about.php == http://localhost/fyp/contact.php : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	New Link URL: http://localhost/fyp/about.php == http://localhost/fyp/search_table.php : List Link URL => FALSE
+Log:[exec]	24 March 2020 12:36:47	
+------------------------
+Link item added: http://localhost/fyp/about.php
+------------------------
+Log:[exec]	24 March 2020 12:36:47	----------------------------------------------------
+Log:[exec]	24 March 2020 12:36:47	Total links found: 4
+Log:[exec]	24 March 2020 12:36:47	Text-> Home : Link-> http://localhost/fyp/ : Used-> false
+Log:[exec]	24 March 2020 12:36:47	Text-> Contact Us : Link-> http://localhost/fyp/contact.php : Used-> false
+Log:[exec]	24 March 2020 12:36:47	Text-> Search Table : Link-> http://localhost/fyp/search_table.php : Used-> false
+Log:[exec]	24 March 2020 12:36:47	Text-> About Us : Link-> http://localhost/fyp/about.php : Used-> false
+Log:[exec]	24 March 2020 12:36:47	----------------------------------------------------
+Log:[exec]	24 March 2020 12:36:47	Scraping the web document from: http://localhost/fyp/
+Log:[info]	24 March 2020 12:36:47	
++---------------------------------------------------------+
+Document Scraping:Test Web Page Home
+URL:http://localhost/fyp/
++---------------------------------------------------------+
+Log:[info]	24 March 2020 12:36:47	################# Generating link objects #################
+Log:[exec]	24 March 2020 12:36:47	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:47	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:47	Added attributeValue: btn_home_logo
+Log:[exec]	24 March 2020 12:36:47	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:47	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:47	Assigning value of: btn_home_logo to String attributeValue
+Log:[exec]	24 March 2020 12:36:47	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_home_logoAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_home_logoAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_home_logo']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:36:47	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:36:47	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:48	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:48	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:48	Added attributeValue: btn_home
+Log:[exec]	24 March 2020 12:36:48	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:48	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:48	Assigning value of: btn_home to String attributeValue
+Log:[exec]	24 March 2020 12:36:48	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_homeAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_homeAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_home']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:36:48	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:36:48	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:49	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:49	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:49	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:36:49	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:49	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:49	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:36:49	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_contact_usAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_contact_usAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_contact_us']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:36:49	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:36:49	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:50	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:50	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:50	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:36:50	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:50	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:50	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:36:50	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_search_tableAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_search_tableAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_search_table']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:36:50	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:36:50	Platform sleeping for 1 seconds
+Log:[info]	24 March 2020 12:36:51	################# Generating input objects #################
+Log:[exec]	24 March 2020 12:36:51	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:51	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:51	Added attributeValue: form_search_input_search
+Log:[exec]	24 March 2020 12:36:51	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:51	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:51	Assigning value of: form_search_input_search to String attributeValue
+Log:[exec]	24 March 2020 12:36:51	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Form_search_input_searchAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Form_search_input_searchAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='form_search_input_search']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:36:51	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:52	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:52	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:52	Added attributeValue: form_article_input_fname
+Log:[exec]	24 March 2020 12:36:52	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:52	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:52	Assigning value of: form_article_input_fname to String attributeValue
+Log:[exec]	24 March 2020 12:36:52	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Form_article_input_fnameAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Form_article_input_fnameAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='form_article_input_fname']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:36:52	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:53	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:53	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:53	Added attributeValue: form_article_input_lname
+Log:[exec]	24 March 2020 12:36:53	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:53	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:53	Assigning value of: form_article_input_lname to String attributeValue
+Log:[exec]	24 March 2020 12:36:53	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Form_article_input_lnameAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Form_article_input_lnameAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='form_article_input_lname']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:36:53	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:54	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:54	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:54	Added attributeValue: form_article_btn_submit
+Log:[exec]	24 March 2020 12:36:54	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:54	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:54	Assigning value of: form_article_btn_submit to String attributeValue
+Log:[exec]	24 March 2020 12:36:54	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Form_article_btn_submitAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Form_article_btn_submitAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='form_article_btn_submit']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:36:54	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:55	Form Input WebElement objects created!
+Log:[info]	24 March 2020 12:36:55	################# Generating table objects #################
+Log:[info]	24 March 2020 12:36:55	Table elements not found!
+Log:[exec]	24 March 2020 12:36:55	Building WebElement object methods completed
+Log:[exec]	24 March 2020 12:36:55	Home.java created successfully!
+
+
+Log:[info]	24 March 2020 12:36:55	################# Generating link script method #################
+Log:[exec]	24 March 2020 12:36:55	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:55	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:55	Added attributeValue: btn_home_logo
+Log:[exec]	24 March 2020 12:36:55	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:55	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:55	Assigning value of: btn_home_logo to String attributeValue
+Log:[exec]	24 March 2020 12:36:55	Returning object method name => link_Btn_home_logoAutomationid
+Log:[exec]	24 March 2020 12:36:55	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:55	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:55	Added attributeValue: btn_home
+Log:[exec]	24 March 2020 12:36:55	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:55	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:55	Assigning value of: btn_home to String attributeValue
+Log:[exec]	24 March 2020 12:36:55	Returning object method name => link_Btn_homeAutomationid
+Log:[exec]	24 March 2020 12:36:55	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:55	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:55	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:36:55	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:55	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:55	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:36:55	Returning object method name => link_Btn_contact_usAutomationid
+Log:[exec]	24 March 2020 12:36:55	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:55	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:55	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:36:55	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:55	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:55	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:36:55	Returning object method name => link_Btn_search_tableAutomationid
+Log:[exec]	24 March 2020 12:36:55	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:36:55	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:56	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:36:56	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:57	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:57	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:57	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:36:57	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:57	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:57	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:36:57	Returning object method name => link_Btn_contact_usAutomationid
+Log:[exec]	24 March 2020 12:36:57	Returning test code
+
+	@Test
+	@DisplayName("visit_Contact_Us")
+	@Order(1)
+	public void visit_Contact_Us() {
+		try {
+			String expectedResult = "Test Web Page Contact";
+			Contact_Us.link_Btn_contact_usAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_contact_usAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			Home.link_Btn_search_tableAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+Log:[exec]	24 March 2020 12:36:57	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:58	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:58	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:58	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:36:58	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:58	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:58	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:36:58	Returning object method name => link_Btn_search_tableAutomationid
+Log:[exec]	24 March 2020 12:36:58	Returning test code
+
+	@Test
+	@DisplayName("visit_Contact_Us")
+	@Order(1)
+	public void visit_Contact_Us() {
+		try {
+			String expectedResult = "Test Web Page Contact";
+			Contact_Us.link_Btn_contact_usAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_contact_usAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			Home.link_Btn_search_tableAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+	@Test
+	@DisplayName("visit_Search_Table")
+	@Order(2)
+	public void visit_Search_Table() {
+		try {
+			String expectedResult = "Test Web Page Search Table";
+			Search_Table.link_Btn_search_tableAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_search_tableAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			Home.link_Btn_search_tableAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+Log:[exec]	24 March 2020 12:36:58	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:36:59	Home.java created successfully!
+
+
+Log:[exec]	24 March 2020 12:36:59	Scraping the web document from: http://localhost/fyp/contact.php
+Log:[info]	24 March 2020 12:36:59	
++---------------------------------------------------------+
+Document Scraping:Test Web Page Contact
+URL:http://localhost/fyp/contact.php
++---------------------------------------------------------+
+Log:[info]	24 March 2020 12:36:59	################# Generating link objects #################
+Log:[exec]	24 March 2020 12:36:59	Found automationid for xpath
+Log:[exec]	24 March 2020 12:36:59	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:36:59	Added attributeValue: btn_home_logo
+Log:[exec]	24 March 2020 12:36:59	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:36:59	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:36:59	Assigning value of: btn_home_logo to String attributeValue
+Log:[exec]	24 March 2020 12:36:59	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_home_logoAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_home_logoAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_home_logo']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:36:59	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:36:59	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:00	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:00	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:00	Added attributeValue: btn_home
+Log:[exec]	24 March 2020 12:37:00	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:00	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:00	Assigning value of: btn_home to String attributeValue
+Log:[exec]	24 March 2020 12:37:00	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_homeAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_homeAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_home']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:00	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:00	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:01	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:01	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:01	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:37:01	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:01	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:01	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:01	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_contact_usAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_contact_usAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_contact_us']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:01	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:01	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:02	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:02	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:02	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:37:02	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:02	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:02	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:37:02	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_search_tableAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_search_tableAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_search_table']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:02	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:02	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:03	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:03	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:03	Added attributeValue: btn_about_us
+Log:[exec]	24 March 2020 12:37:03	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:03	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:03	Assigning value of: btn_about_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:03	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_about_usAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_about_usAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_about_us']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:03	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:03	Platform sleeping for 1 seconds
+Log:[info]	24 March 2020 12:37:04	################# Generating input objects #################
+Log:[exec]	24 March 2020 12:37:04	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:04	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:04	Added attributeValue: form_search_input_search
+Log:[exec]	24 March 2020 12:37:04	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:04	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:04	Assigning value of: form_search_input_search to String attributeValue
+Log:[exec]	24 March 2020 12:37:04	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Form_search_input_searchAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Form_search_input_searchAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='form_search_input_search']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:04	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:05	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:05	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:05	Added attributeValue: input_email
+Log:[exec]	24 March 2020 12:37:05	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:05	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:05	Assigning value of: input_email to String attributeValue
+Log:[exec]	24 March 2020 12:37:05	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Input_emailAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Input_emailAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='input_email']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:05	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:06	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:06	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:06	Added attributeValue: input_password
+Log:[exec]	24 March 2020 12:37:06	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:06	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:06	Assigning value of: input_password to String attributeValue
+Log:[exec]	24 March 2020 12:37:06	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Input_passwordAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Input_passwordAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='input_password']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:06	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:07	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:07	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:07	Added attributeValue: input_checkbox
+Log:[exec]	24 March 2020 12:37:07	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:07	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:07	Assigning value of: input_checkbox to String attributeValue
+Log:[exec]	24 March 2020 12:37:07	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Input_checkboxAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Input_checkboxAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='input_checkbox']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:07	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:08	Form Input WebElement objects created!
+Log:[info]	24 March 2020 12:37:08	################# Generating table objects #################
+Log:[info]	24 March 2020 12:37:08	Table elements not found!
+Log:[exec]	24 March 2020 12:37:08	Building WebElement object methods completed
+Log:[exec]	24 March 2020 12:37:08	Contact_Us.java created successfully!
+
+
+Log:[info]	24 March 2020 12:37:08	################# Generating link script method #################
+Log:[exec]	24 March 2020 12:37:08	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:08	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:08	Added attributeValue: btn_home_logo
+Log:[exec]	24 March 2020 12:37:08	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: btn_home_logo to String attributeValue
+Log:[exec]	24 March 2020 12:37:08	Returning object method name => link_Btn_home_logoAutomationid
+Log:[exec]	24 March 2020 12:37:08	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:08	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:08	Added attributeValue: btn_home
+Log:[exec]	24 March 2020 12:37:08	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: btn_home to String attributeValue
+Log:[exec]	24 March 2020 12:37:08	Returning object method name => link_Btn_homeAutomationid
+Log:[exec]	24 March 2020 12:37:08	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:08	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:08	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:37:08	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:08	Returning object method name => link_Btn_contact_usAutomationid
+Log:[exec]	24 March 2020 12:37:08	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:08	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:08	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:37:08	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:37:08	Returning object method name => link_Btn_search_tableAutomationid
+Log:[exec]	24 March 2020 12:37:08	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:08	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:08	Added attributeValue: btn_about_us
+Log:[exec]	24 March 2020 12:37:08	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:08	Assigning value of: btn_about_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:08	Returning object method name => link_Btn_about_usAutomationid
+Log:[exec]	24 March 2020 12:37:08	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:37:08	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:09	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:37:09	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:10	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:11	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:11	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:11	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:37:11	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:11	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:11	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:37:11	Returning object method name => link_Btn_search_tableAutomationid
+Log:[exec]	24 March 2020 12:37:11	Returning test code
+
+	@Test
+	@DisplayName("visit_Search_Table")
+	@Order(1)
+	public void visit_Search_Table() {
+		try {
+			String expectedResult = "Test Web Page Search Table";
+			Search_Table.link_Btn_search_tableAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_search_tableAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			Contact_Us.link_Btn_about_usAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+Log:[exec]	24 March 2020 12:37:11	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:12	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:12	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:12	Added attributeValue: btn_about_us
+Log:[exec]	24 March 2020 12:37:12	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:12	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:12	Assigning value of: btn_about_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:12	Returning object method name => link_Btn_about_usAutomationid
+Log:[exec]	24 March 2020 12:37:12	Returning test code
+
+	@Test
+	@DisplayName("visit_Search_Table")
+	@Order(1)
+	public void visit_Search_Table() {
+		try {
+			String expectedResult = "Test Web Page Search Table";
+			Search_Table.link_Btn_search_tableAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_search_tableAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			Contact_Us.link_Btn_about_usAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+	@Test
+	@DisplayName("visit_About_Us")
+	@Order(2)
+	public void visit_About_Us() {
+		try {
+			String expectedResult = "Test Web Page About";
+			About_Us.link_Btn_about_usAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_about_usAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			Contact_Us.link_Btn_about_usAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+Log:[exec]	24 March 2020 12:37:12	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:13	Contact_Us.java created successfully!
+
+
+Log:[exec]	24 March 2020 12:37:13	Scraping the web document from: http://localhost/fyp/search_table.php
+Log:[info]	24 March 2020 12:37:13	
++---------------------------------------------------------+
+Document Scraping:Test Web Page Search Table
+URL:http://localhost/fyp/search_table.php
++---------------------------------------------------------+
+Log:[info]	24 March 2020 12:37:13	################# Generating link objects #################
+Log:[exec]	24 March 2020 12:37:13	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:13	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:13	Added attributeValue: btn_home_logo
+Log:[exec]	24 March 2020 12:37:13	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:13	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:13	Assigning value of: btn_home_logo to String attributeValue
+Log:[exec]	24 March 2020 12:37:13	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_home_logoAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_home_logoAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_home_logo']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:13	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:13	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:14	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:14	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:14	Added attributeValue: btn_home
+Log:[exec]	24 March 2020 12:37:14	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:14	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:14	Assigning value of: btn_home to String attributeValue
+Log:[exec]	24 March 2020 12:37:14	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_homeAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_homeAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_home']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:14	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:14	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:15	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:15	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:15	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:37:15	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:15	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:15	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:15	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_contact_usAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_contact_usAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_contact_us']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:15	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:15	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:16	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:16	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:16	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:37:16	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:16	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:16	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:37:16	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_search_tableAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_search_tableAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_search_table']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:16	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:16	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:17	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:17	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:17	Added attributeValue: btn_about_us
+Log:[exec]	24 March 2020 12:37:17	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:17	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:17	Assigning value of: btn_about_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:17	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_about_usAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_about_usAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_about_us']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:17	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:17	Platform sleeping for 1 seconds
+Log:[info]	24 March 2020 12:37:18	################# Generating input objects #################
+Log:[exec]	24 March 2020 12:37:18	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:18	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:18	Added attributeValue: form_search_input_search
+Log:[exec]	24 March 2020 12:37:18	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:18	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:18	Assigning value of: form_search_input_search to String attributeValue
+Log:[exec]	24 March 2020 12:37:18	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Form_search_input_searchAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Form_search_input_searchAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='form_search_input_search']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:18	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:19	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:19	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:19	Added attributeValue: input_search_without_nested
+Log:[exec]	24 March 2020 12:37:19	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:19	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:19	Assigning value of: input_search_without_nested to String attributeValue
+Log:[exec]	24 March 2020 12:37:19	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Input_search_without_nestedAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Input_search_without_nestedAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='input_search_without_nested']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:19	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:20	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:20	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:20	Added attributeValue: btn_submit_search_without_nested
+Log:[exec]	24 March 2020 12:37:20	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:20	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:20	Assigning value of: btn_submit_search_without_nested to String attributeValue
+Log:[exec]	24 March 2020 12:37:20	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Btn_submit_search_without_nestedAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Btn_submit_search_without_nestedAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='btn_submit_search_without_nested']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:20	Platform sleeping for 1 seconds
+Log:[warning]	24 March 2020 12:37:21	Could not find attributes for xpath, targetting cssSelector
+Log:[exec]	24 March 2020 12:37:21	Added tagName: input to HashMap<String, String> attributes
+Log:[exec]	24 March 2020 12:37:21	Added cssSelector: #search > div.form > form.pr-0 > div.form-group.row.no-gutters.float-right.clearfix > div.col-sm-8 > input to HashMap<String, String> attributes
+Log:[exec]	24 March 2020 12:37:21	Could not find key: attributeValue for Hashmap<String, String> domAttribute, targetting cssSelector
+Log:[exec]	24 March 2020 12:37:21	Generated random number: aao0KEHr2u
+Log:[exec]	24 March 2020 12:37:21	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_aao0KEHr2u(WebDriver driver)
+	*/
+	public static WebElement formInput_aao0KEHr2u(WebDriver driver) {
+		return driver.findElement(By.cssSelector("#search > div.form > form.pr-0 > div.form-group.row.no-gutters.float-right.clearfix > div.col-sm-8 > input"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:21	Platform sleeping for 1 seconds
+Log:[warning]	24 March 2020 12:37:22	Could not find attributes for xpath, targetting cssSelector
+Log:[exec]	24 March 2020 12:37:22	Added tagName: input to HashMap<String, String> attributes
+Log:[exec]	24 March 2020 12:37:22	Added cssSelector: #search > div.form > form.pr-0 > div.form-group.row.no-gutters.float-right.clearfix > input to HashMap<String, String> attributes
+Log:[exec]	24 March 2020 12:37:22	Could not find key: attributeValue for Hashmap<String, String> domAttribute, targetting cssSelector
+Log:[exec]	24 March 2020 12:37:22	Generated random number: aWQgKDP32f
+Log:[exec]	24 March 2020 12:37:22	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_aWQgKDP32f(WebDriver driver)
+	*/
+	public static WebElement formInput_aWQgKDP32f(WebDriver driver) {
+		return driver.findElement(By.cssSelector("#search > div.form > form.pr-0 > div.form-group.row.no-gutters.float-right.clearfix > input"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:22	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:23	Form Input WebElement objects created!
+Log:[info]	24 March 2020 12:37:23	################# Generating table objects #################
+Log:[info]	24 March 2020 12:37:23	This is a search table!
+Log:[exec]	24 March 2020 12:37:23	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:23	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:23	Added attributeValue: tbl_search_without_nested
+Log:[exec]	24 March 2020 12:37:23	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:23	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:23	Assigning value of: tbl_search_without_nested to String attributeValue
+Log:[exec]	24 March 2020 12:37:23	Returning code
+	/**
+	* Table object
+	* @method WebElement table_Tbl_search_without_nestedAutomationid(WebDriver driver)
+	*/
+	public static WebElement table_Tbl_search_without_nestedAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//table[@automationid='tbl_search_without_nested']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:23	Platform sleeping for 1 seconds
+Log:[info]	24 March 2020 12:37:24	This is a search table!
+Log:[exec]	24 March 2020 12:37:24	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:24	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:24	Added attributeValue: tbl_search_nested
+Log:[exec]	24 March 2020 12:37:24	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:24	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:24	Assigning value of: tbl_search_nested to String attributeValue
+Log:[exec]	24 March 2020 12:37:24	Returning code
+	/**
+	* Table object
+	* @method WebElement table_Tbl_search_nestedAutomationid(WebDriver driver)
+	*/
+	public static WebElement table_Tbl_search_nestedAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//table[@automationid='tbl_search_nested']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:24	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:25	Building WebElement object methods completed
+Log:[exec]	24 March 2020 12:37:25	Search_Table.java created successfully!
+
+
+Log:[info]	24 March 2020 12:37:25	################# Generating link script method #################
+Log:[exec]	24 March 2020 12:37:25	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:25	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:25	Added attributeValue: btn_home_logo
+Log:[exec]	24 March 2020 12:37:25	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: btn_home_logo to String attributeValue
+Log:[exec]	24 March 2020 12:37:25	Returning object method name => link_Btn_home_logoAutomationid
+Log:[exec]	24 March 2020 12:37:25	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:25	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:25	Added attributeValue: btn_home
+Log:[exec]	24 March 2020 12:37:25	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: btn_home to String attributeValue
+Log:[exec]	24 March 2020 12:37:25	Returning object method name => link_Btn_homeAutomationid
+Log:[exec]	24 March 2020 12:37:25	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:25	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:25	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:37:25	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:25	Returning object method name => link_Btn_contact_usAutomationid
+Log:[exec]	24 March 2020 12:37:25	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:25	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:25	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:37:25	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:37:25	Returning object method name => link_Btn_search_tableAutomationid
+Log:[exec]	24 March 2020 12:37:25	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:25	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:25	Added attributeValue: btn_about_us
+Log:[exec]	24 March 2020 12:37:25	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:25	Assigning value of: btn_about_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:25	Returning object method name => link_Btn_about_usAutomationid
+Log:[exec]	24 March 2020 12:37:25	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:37:25	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:26	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:37:26	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:27	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:27	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:27	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:37:27	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:27	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:27	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:27	Returning object method name => link_Btn_contact_usAutomationid
+Log:[exec]	24 March 2020 12:37:27	Returning test code
+
+	@Test
+	@DisplayName("visit_Contact_Us")
+	@Order(1)
+	public void visit_Contact_Us() {
+		try {
+			String expectedResult = "Test Web Page Contact";
+			Contact_Us.link_Btn_contact_usAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_contact_usAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			Search_Table.link_Btn_about_usAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+Log:[exec]	24 March 2020 12:37:27	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:28	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:29	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:29	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:29	Added attributeValue: btn_about_us
+Log:[exec]	24 March 2020 12:37:29	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:29	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:29	Assigning value of: btn_about_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:29	Returning object method name => link_Btn_about_usAutomationid
+Log:[exec]	24 March 2020 12:37:29	Returning test code
+
+	@Test
+	@DisplayName("visit_Contact_Us")
+	@Order(1)
+	public void visit_Contact_Us() {
+		try {
+			String expectedResult = "Test Web Page Contact";
+			Contact_Us.link_Btn_contact_usAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_contact_usAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			Search_Table.link_Btn_about_usAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+	@Test
+	@DisplayName("visit_About_Us")
+	@Order(2)
+	public void visit_About_Us() {
+		try {
+			String expectedResult = "Test Web Page About";
+			About_Us.link_Btn_about_usAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_about_usAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			Search_Table.link_Btn_about_usAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+Log:[exec]	24 March 2020 12:37:29	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:30	Search_Table.java created successfully!
+
+
+Log:[exec]	24 March 2020 12:37:30	Scraping the web document from: http://localhost/fyp/about.php
+Log:[info]	24 March 2020 12:37:30	
++---------------------------------------------------------+
+Document Scraping:Test Web Page About
+URL:http://localhost/fyp/about.php
++---------------------------------------------------------+
+Log:[info]	24 March 2020 12:37:30	################# Generating link objects #################
+Log:[exec]	24 March 2020 12:37:30	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:30	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:30	Added attributeValue: btn_home_logo
+Log:[exec]	24 March 2020 12:37:30	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:30	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:30	Assigning value of: btn_home_logo to String attributeValue
+Log:[exec]	24 March 2020 12:37:30	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_home_logoAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_home_logoAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_home_logo']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:30	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:30	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:31	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:31	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:31	Added attributeValue: btn_home
+Log:[exec]	24 March 2020 12:37:31	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:31	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:31	Assigning value of: btn_home to String attributeValue
+Log:[exec]	24 March 2020 12:37:31	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_homeAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_homeAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_home']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:31	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:31	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:32	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:32	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:32	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:37:32	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:32	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:32	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:32	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_contact_usAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_contact_usAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_contact_us']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:32	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:32	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:33	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:33	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:33	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:37:33	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:33	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:33	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:37:33	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_search_tableAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_search_tableAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_search_table']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:33	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:33	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:34	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:34	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:34	Added attributeValue: btn_about_us
+Log:[exec]	24 March 2020 12:37:34	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:34	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:34	Assigning value of: btn_about_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:34	Returning code
+	/**
+	* Link object
+	* @method WebElement link_Btn_about_usAutomationid(WebDriver driver)
+	*/
+	public static WebElement link_Btn_about_usAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//a[@automationid='btn_about_us']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:34	Building WebElement object method string: btn(WebDriver driver){}
+Log:[exec]	24 March 2020 12:37:34	Platform sleeping for 1 seconds
+Log:[info]	24 March 2020 12:37:35	################# Generating input objects #################
+Log:[exec]	24 March 2020 12:37:35	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:35	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:35	Added attributeValue: form_search_input_search
+Log:[exec]	24 March 2020 12:37:35	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:35	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:35	Assigning value of: form_search_input_search to String attributeValue
+Log:[exec]	24 March 2020 12:37:35	Returning code
+	/**
+	* Input object
+	* @method WebElement formInput_Form_search_input_searchAutomationid(WebDriver driver)
+	*/
+	public static WebElement formInput_Form_search_input_searchAutomationid(WebDriver driver){
+		return driver.findElement(By.xpath("//input[@automationid='form_search_input_search']"));
+	}
+
+
+Log:[exec]	24 March 2020 12:37:35	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:36	Form Input WebElement objects created!
+Log:[info]	24 March 2020 12:37:36	################# Generating table objects #################
+Log:[info]	24 March 2020 12:37:36	Table elements not found!
+Log:[exec]	24 March 2020 12:37:36	Building WebElement object methods completed
+Log:[exec]	24 March 2020 12:37:36	About_Us.java created successfully!
+
+
+Log:[info]	24 March 2020 12:37:36	################# Generating link script method #################
+Log:[exec]	24 March 2020 12:37:36	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:36	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:36	Added attributeValue: btn_home_logo
+Log:[exec]	24 March 2020 12:37:36	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: btn_home_logo to String attributeValue
+Log:[exec]	24 March 2020 12:37:36	Returning object method name => link_Btn_home_logoAutomationid
+Log:[exec]	24 March 2020 12:37:36	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:36	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:36	Added attributeValue: btn_home
+Log:[exec]	24 March 2020 12:37:36	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: btn_home to String attributeValue
+Log:[exec]	24 March 2020 12:37:36	Returning object method name => link_Btn_homeAutomationid
+Log:[exec]	24 March 2020 12:37:36	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:36	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:36	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:37:36	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:36	Returning object method name => link_Btn_contact_usAutomationid
+Log:[exec]	24 March 2020 12:37:36	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:36	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:36	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:37:36	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:37:36	Returning object method name => link_Btn_search_tableAutomationid
+Log:[exec]	24 March 2020 12:37:36	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:36	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:36	Added attributeValue: btn_about_us
+Log:[exec]	24 March 2020 12:37:36	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:36	Assigning value of: btn_about_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:36	Returning object method name => link_Btn_about_usAutomationid
+Log:[exec]	24 March 2020 12:37:36	Same as base SKIP --> http://localhost/fyp
+Log:[exec]	24 March 2020 12:37:36	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:37	Same as base SKIP --> http://localhost/fyp/index.php
+Log:[exec]	24 March 2020 12:37:37	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:38	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:38	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:38	Added attributeValue: btn_contact_us
+Log:[exec]	24 March 2020 12:37:38	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:38	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:38	Assigning value of: btn_contact_us to String attributeValue
+Log:[exec]	24 March 2020 12:37:38	Returning object method name => link_Btn_contact_usAutomationid
+Log:[exec]	24 March 2020 12:37:38	Returning test code
+
+	@Test
+	@DisplayName("visit_Contact_Us")
+	@Order(1)
+	public void visit_Contact_Us() {
+		try {
+			String expectedResult = "Test Web Page Contact";
+			Contact_Us.link_Btn_contact_usAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_contact_usAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			About_Us.link_Btn_about_usAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+Log:[exec]	24 March 2020 12:37:38	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:39	Found automationid for xpath
+Log:[exec]	24 March 2020 12:37:39	Added attributeName: automationid
+Log:[exec]	24 March 2020 12:37:39	Added attributeValue: btn_search_table
+Log:[exec]	24 March 2020 12:37:39	Found key: attributeValue for Hashmap<String, String> domAttribute
+Log:[exec]	24 March 2020 12:37:39	Assigning value of: automationid to String attributeName
+Log:[exec]	24 March 2020 12:37:39	Assigning value of: btn_search_table to String attributeValue
+Log:[exec]	24 March 2020 12:37:39	Returning object method name => link_Btn_search_tableAutomationid
+Log:[exec]	24 March 2020 12:37:39	Returning test code
+
+	@Test
+	@DisplayName("visit_Contact_Us")
+	@Order(1)
+	public void visit_Contact_Us() {
+		try {
+			String expectedResult = "Test Web Page Contact";
+			Contact_Us.link_Btn_contact_usAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_contact_usAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			About_Us.link_Btn_about_usAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+	@Test
+	@DisplayName("visit_Search_Table")
+	@Order(2)
+	public void visit_Search_Table() {
+		try {
+			String expectedResult = "Test Web Page Search Table";
+			Search_Table.link_Btn_search_tableAutomationid(driver).click();
+			Logger.logInfo("Navigating to link_Btn_search_tableAutomationid");
+			Platform.sleep(Platform.SHORT_TIME);
+			String actualResult = driver.getTitle();
+			assertEquals(expectedResult, actualResult);
+			About_Us.link_Btn_about_usAutomationid(driver).click();
+			Platform.sleep(Platform.FIVE_SECONDS);
+		}catch(Exception ex) {
+			Logger.logError(ex.toString());
+		}
+	}
+
+
+Log:[exec]	24 March 2020 12:37:39	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:40	Platform sleeping for 1 seconds
+Log:[exec]	24 March 2020 12:37:41	About_Us.java created successfully!
+
+
++----------------------------------------+
+End of WEBSITE SCRAPING script execution
+DateTime Finished: 24 March 2020 12:37:41
++----------------------------------------+
